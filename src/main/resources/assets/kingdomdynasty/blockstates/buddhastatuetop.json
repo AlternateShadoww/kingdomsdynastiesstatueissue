@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kingdomdynasty:block/buddhastatue0"
+    },
+    "facing=east": {
+      "model": "kingdomdynasty:block/buddhastatue0",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kingdomdynasty:block/buddhastatue0",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kingdomdynasty:block/buddhastatue0",
+      "y": 270
+    }
+  }
+}

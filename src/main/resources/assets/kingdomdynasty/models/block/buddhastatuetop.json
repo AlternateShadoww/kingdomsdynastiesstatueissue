@@ -1,0 +1,8 @@
+{
+  "parent": "kingdomdynasty:custom/buddhastatue1top",
+  "textures": {
+    "all": "kingdomdynasty:blocks/buddha_statue_1",
+    "particle": "kingdomdynasty:blocks/buddha_statue_1",
+    "2": "kingdomdynasty:blocks/buddha_statue_1"
+  }
+}
