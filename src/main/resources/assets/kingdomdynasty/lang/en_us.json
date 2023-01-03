@@ -1,0 +1,159 @@
+{
+  "item.kingdomdynasty.tamahagane": "Tamahagane",
+  "item.kingdomdynasty.katana": "Katana",
+  "item.kingdomdynasty.naginata": "Naginata",
+  "item.kingdomdynasty.shinai": "Shinai",
+  "item.kingdomdynasty.tanto": "Tantō",
+  "item.kingdomdynasty.kama": "Kama",
+  "item.kingdomdynasty.masakari": "Masakari",
+  "item.kingdomdynasty.bamboo_stick": "Bamboo Stick",
+
+
+  "item.kingdomdynasty.conical_hat": "Conical Hat",
+  "item.kingdomdynasty.conical_black_hat": "Black Conical Hat",
+  "item.kingdomdynasty.conical_hat_red": "Conical Hat (Red Menpo)",
+  "item.kingdomdynasty.conical_hat_tamahagane": "Conical Hat (Menpo)",
+  "item.kingdomdynasty.conical_hat_black": "Conical Hat (Black Menpo)",
+  "item.kingdomdynasty.conical_hat_gold": "Conical Hat (Gold Menpo)",
+
+  "item.kingdomdynasty.menpo": "Karuta Menpo",
+  "item.kingdomdynasty.menpo_black": "Black Menpo",
+  "item.kingdomdynasty.menpo_red": "Red Menpo",
+  "item.kingdomdynasty.menpo_gold": "Gold Menpo",
+  "item.kingdomdynasty.karuta_kabuto_black_menpo": "(Black Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_red_menpo": "(Red Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_menpo": "(Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_gold_menpo": "(Gold Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_blue_menpo": "(Blue Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_cyan_menpo": "(Cyan Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_light_blue_menpo": "(Light Blue Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_orange_menpo": "(Orange Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_white_menpo": "(White Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_light_gray_menpo": "(Light Gray Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_gray_menpo": "(Gray Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_lime_menpo": "(Lime Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_green_menpo": "(Green Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_pink_menpo": "(Pink Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_magenta_menpo": "(Magenta Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_purple_menpo": "(Purple Menpo) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_kabuto_brown_menpo": "(Brown Menpo) Karuta Kabuto",
+
+  "item.kingdomdynasty.kimono": "Kimono",
+  "item.kingdomdynasty.kimono_hakama": "Kimono Hakama",
+
+
+  "item.kingdomdynasty.karuta_kabuto": "Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do": "Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri": "Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta": "Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_red": "(Red) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_red": "(Red) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_red": "(Red) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_red": "(Red) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_blue": "(Blue) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_blue": "(Blue) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_blue": "(Blue) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_blue": "(Blue) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_black": "(Black) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_black": "(Black) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_black": "(Black) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_black": "(Black) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_green": "(Green) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_green": "(Green) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_green": "(Green) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_green": "(Green) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_brown": "(Brown) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_brown": "(Brown) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_brown": "(Brown) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_brown": "(Brown) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_gray": "(Gray) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_gray": "(Gray) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_gray": "(Gray) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_gray": "(Gray) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_gold": "(Gold) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_gold": "(Gold) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_gold": "(Gold) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_gold": "(Gold) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_pink": "(Pink) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_pink": "(Pink) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_pink": "(Pink) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_pink": "(Pink) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_purple": "(Purple) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_purple": "(Purple) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_purple": "(Purple) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_purple": "(Purple) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_lime": "(Lime) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_lime": "(Lime) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_lime": "(Lime) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_lime": "(Lime) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_light_blue": "(Light Blue) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_light_blue": "(Light Blue) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_light_blue": "(Light Blue) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_light_blue": "(Light Blue) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_orange": "(Orange) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_orange": "(Orange) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_orange": "(Orange) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_orange": "(Orange) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_magenta": "(Magenta) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_magenta": "(Magenta) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_magenta": "(Magenta) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_magenta": "(Magenta) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_white": "(White) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_white": "(White) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_white": "(White) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_white": "(White) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_light_gray": "(Light Gray) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_light_gray": "(Light Gray) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_light_gray": "(Light Gray) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_light_gray": "(Light Gray) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_cyan": "(Cyan) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_cyan": "(Cyan) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_cyan": "(Cyan) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_cyan": "(Cyan) Karuta Geta",
+
+  "item.kingdomdynasty.karuta_kabuto_diamond": "(Diamond) Karuta Kabuto",
+  "item.kingdomdynasty.karuta_do_diamond": "(Diamond) Karuta Dō",
+  "item.kingdomdynasty.karuta_kusazuri_diamond": "(Diamond) Karuta Kusazuri",
+  "item.kingdomdynasty.karuta_geta_diamond": "(Diamond) Karuta Geta",
+
+  "block.kingdomdynasty.iron_sand": "Iron Sand",
+  "block.kingdomdynasty.adobe": "Adobe",
+  "block.kingdomdynasty.adobe_stairs": "Adobe Stairs",
+  "block.kingdomdynasty.adobe_slab": "Adobe Slab",
+  "block.kingdomdynasty.cutadobe": "Cut Adobe",
+  "block.kingdomdynasty.smoothadobe": "Smooth Adobe",
+  "block.kingdomdynasty.smoothadobe_stairs": "Smooth Adobe Stairs",
+  "block.kingdomdynasty.smoothadobe_slab": "Smooth Adobe Slab",
+  "block.kingdomdynasty.bamboo_planks": "Bamboo Planks",
+  "block.kingdomdynasty.bamboo_slab": "Bamboo Slab",
+  "block.kingdomdynasty.bamboo_stairs": "Bamboo Stairs",
+
+  "block.kingdomdynasty.buddha_statue_1": "Buddhist Statue",
+  "block.kingdomdynasty.buddhastatue_0": "Buddhist Statue",
+  "block.kingdomdynasty.buddhastatuetop": "Buddhist Statue",
+
+  "item.kingdomdynasty.samurai_warrior_spawn_egg": "Samurai Warrior Spawn Egg",
+
+  "entity.kingdomdynasty.samurai_warrior": "Samurai Warrior",
+
+  "itemGroup.kingdomdynastyessential": "Kingdoms & Dynasties Essentials",
+  "itemGroup.kingdomdynastyjapan": "Kingdoms & Dynasties Building: Japan",
+  "itemGroup.kingdomdynastyarmor": "Kingdoms & Dynasties Armor",
+  "itemGroup.kingdomdynastyweapons": "Kingdoms & Dynasties Weapons"
+}
